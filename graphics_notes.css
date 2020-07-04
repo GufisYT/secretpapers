@@ -1,0 +1,71 @@
+.headers{
+  position: relative;
+  align-items: center;
+  text-align: center;
+  line-height: 20px;
+  font-family: MoonGloss;
+  color: #3b89ff;
+}
+
+.imA{
+  position: absolute;
+  left: 25%;
+  top: 35%;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  transform: translate(-50%,-50%);
+  font-family: MoonGloss;
+  font-size: 50px;
+  color: #3b89ff;
+}
+.LaunchpadC{
+  position: absolute;
+  top: 50%;
+  margin: 0px;
+  padding: 0px;
+  font-family: MoonGloss;
+  font-size: 50px;
+  color: #3b89ff;
+}
+
+span:before
+{
+  content: "Programmer";
+  animation: wordSeq infinite 8s;
+}
+body{
+  background-color: #454545;
+}
+
+@font-face {
+  font-family: MoonGloss;
+  src: url("MoonGlossDisplayThick.ttf");
+}
+
+@keyframes wordSeq {
+
+  0%{
+    content: "Programmer";
+  }
+
+  20%{
+    content: "Programmer";
+  }
+
+  40%{
+    content: "3D Modeler";
+  }
+
+  60%{
+    content: "VFX Artist";
+  }
+
+  80%{
+    content: "Streamer";
+  }
+
+  100%{
+    content: "Gamer";
+  }
+}
