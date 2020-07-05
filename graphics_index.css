@@ -17,8 +17,9 @@
 }
 
 .link_hold{
-  position: fixed;
+  position: relative;
   align-items: center;
+  text-align: center;
   top: 20%;
 
 }
