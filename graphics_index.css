@@ -7,25 +7,15 @@
   color: #3b89ff;
 }
 
-.notes{
+.links{
   font-family: MoonGloss;
   position: absolute;
   color: #3b89ff;
   top: 20%;
   left: 2%;
   font-size: 51px;
-  text-align: center;
+  text-align: left;
 }
-.works{
-  font-family: MoonGloss;
-  width: 100%;
-  position: absolute;
-  top: 20%;
-  color: #3b89ff;
-  font-size: 51px;
-  text-align: center;
-}
-
 body{
   background-color: #454545;
 }

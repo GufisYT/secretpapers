@@ -3,11 +3,11 @@
   align-items: center;
   text-align: center;
   line-height: 20px;
-  font-family: MoonGlosss;
+  font-family: MoonGloss;
   color: #3b89ff;
 }
 .backtomain{
-  font-family: MoonGlosss;
+  font-family: MoonGloss;
   position: absolute;
   color: #3b89ff;
   text-decoration: none;
@@ -24,7 +24,7 @@
   padding: 0px;
   text-align: left;
   transform: translate(-50%,-50%);
-  font-family: MoonGlosss;
+  font-family: MoonGloss;
   font-size: 50px;
   color: #3b89ff;
 }
@@ -33,7 +33,7 @@
   top: 50%;
   margin: 0px;
   padding: 0px;
-  font-family: MoonGlosss;
+  font-family: MoonGloss;
   font-size: 50px;
   color: #3b89ff;
 }
@@ -48,7 +48,7 @@ body{
 }
 
 @font-face {
-  font-family: MoonGlosss;
+  font-family: MoonGloss;
   src: url("MoonGlossDisplayThick.ttf");
 }
 
