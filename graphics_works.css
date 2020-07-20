@@ -6,6 +6,10 @@
   font-family: MoonGloss;
   color: #3b89ff;
 }
+.sort{
+  line-height: 50px;
+  
+}
 .backtomain{
   font-family: MoonGloss;
   position: absolute;
@@ -18,7 +22,7 @@
 
 .vid_galery{
   position: relative;
-  top: 25px;
+  top: 10px;
   align-items: center;
   text-align: center;
 
