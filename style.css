@@ -1,0 +1,161 @@
+.headers{
+  position: relative;
+  align-items: center;
+  text-align: center;
+  line-height: 20px;
+  font-family: MoonGloss;
+  color: #3b89ff;
+}
+
+.notes{
+  font-family: MoonGloss;
+  position: relative;
+  color: #3b89ff;
+  font-size: 51px;
+  text-align: center;
+  margin: 20px;
+}
+
+.link_hold{
+  position: relative;
+  align-items: center;
+  text-align: center;
+  word-spacing: -15px;
+  top: 20%;
+
+}
+.works{
+  font-family: MoonGloss;
+  position: relative;
+  text-align: center;
+  color: #3b89ff;
+  font-size: 51px;
+  margin: 20px;
+}
+
+.media{
+  font-family: MoonGloss;
+  position: relative;
+  text-align: center;
+  color: #3b89ff;
+  font-size: 51px;
+  margin: 20px;
+}
+
+.backtomain{
+  font-family: MoonGloss;
+  position: absolute;
+  color: #3b89ff;
+  text-decoration: none;
+  top: 0.5%;
+  font-size: 51px;
+  text-align: center;
+}
+
+.imA{
+  position: absolute;
+  left: 25%;
+  top: 35%;
+  margin: 0px;
+  padding: 0px;
+  text-align: left;
+  transform: translate(-50%,-50%);
+  font-family: MoonGloss;
+  font-size: 50px;
+  color: #3b89ff;
+}
+.LaunchpadC{
+  position: absolute;
+  top: 50%;
+  margin: 0px;
+  padding: 0px;
+  font-family: MoonGloss;
+  font-size: 50px;
+  color: #3b89ff;
+}
+
+.sort{
+  line-height: 50px;
+
+}
+.vid_galery{
+  position: relative;
+  top: 10px;
+  align-items: center;
+  text-align: center;
+
+}
+
+span:before
+{
+  content: "Programmer";
+  animation: wordSeq infinite 8s;
+}
+
+body{
+  background-color: #454545;
+}
+
+nav{
+  position: relative;
+  text-align: center;
+  align-items: center;
+  left: -1.25%;
+}
+
+a.liste:link{
+    position: relative;
+    top: 20px;
+    font-size: 42px;
+    font-family: MoonGloss;
+    text-decoration: none;
+    color: #3b89ff;
+}
+
+a.liste:visited{
+    position: relative;
+    top: 20px;
+    font-size: 42px;
+    font-family: MoonGloss;
+    text-decoration: none;
+    color: #3b89ff;
+}
+ul{
+list-style-type:none;
+}
+
+@keyframes wordSeq {
+
+  0%{
+    content: "Programmer";
+  }
+
+  20%{
+    content: "Programmer";
+  }
+
+  40%{
+    content: "3D Modeler";
+  }
+
+  60%{
+    content: "VFX Artist";
+  }
+
+  80%{
+    content: "Streamer";
+  }
+
+  100%{
+    content: "Gamer";
+  }
+}
+
+body{
+  background-color: #454545;
+}
+
+@font-face {
+  font-family: MoonGloss;
+  src: url("MoonGlossDisplayThick.ttf");
+}
