@@ -15,6 +15,16 @@
   top: 20%;
 
 }
+
+.notes{
+  font-family: MoonGloss;
+  position: relative;
+  color: #3b89ff;
+  font-size: 51px;
+  text-align: center;
+  margin: 20px;
+}
+
 .works{
   font-family: MoonGloss;
   position: relative;
@@ -57,12 +67,12 @@
 }
 .LaunchpadC{
   position: absolute;
-  top: 50%;
+  text-align: left;
+  top: 20%;
   margin: 0px;
   padding: 0px;
-  font-family: MoonGloss;
-  font-size: 50px;
-  color: #3b89ff;
+  font-size: 16px;
+  color: #ffffff;
 }
 
 .sort{
