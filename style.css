@@ -70,9 +70,12 @@
   text-align: left;
   top: 20%;
   margin: 0px;
-  padding: 0px;
   font-size: 16px;
   color: #ffffff;
+}
+
+br{
+  padding-bottom: 20px;
 }
 
 .sort{
